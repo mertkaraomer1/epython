@@ -1,0 +1,1 @@
+{'123': {'isim': 'Deniz', 'soyisim': 'Çalış', 'dyeri': 'Amasya', 'dtarih': '05/08/2000', 'bölüm': 'İnsan Kaynakları', 'tel': '5058079845', 'sifre': '123', 'songiris': '05/12/22,210741'}, '456': {'isim': 'İhsan', 'soyisim': 'Benli', 'dyeri': 'Adana', 'dtarih': '01/08/2000', 'bölüm': 'İnsan Kaynakları', 'tel': '5058079845', 'sifre': '456', 'songiris': '05/12/22,204532'}}
